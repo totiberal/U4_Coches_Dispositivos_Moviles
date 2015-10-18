@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">U4_Coches</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secundaria">Secundaria</string>
+    <string name="title_activity_terceira">Terceira</string>
+</resources>
